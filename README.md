@@ -1,4 +1,4 @@
-The folder structure designed by our software architects ensures adherence to best practices:
+
 
 - `controllers`: Contains the logic for handling incoming requests and returning responses to the client.
 - `models`: Defines the data models and interacts directly with the database.
